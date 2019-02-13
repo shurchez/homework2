@@ -1,0 +1,15 @@
+#slider {
+	width: 1080px;
+	margin: auto;
+	text-align: center;
+}
+
+#slider .images img {
+	width: 100%;
+	display: none;
+}
+
+#slider .images img:first-child {
+	display: block;
+}
+
